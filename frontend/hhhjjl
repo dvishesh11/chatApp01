@@ -1,0 +1,18 @@
+/*
+1.zustand react-hot-toast lucide-react
+2.in backend we have developed a REST API with node.js and express to handle http requests like get put post delete
+
+3. frontend chalane k liye -> normal apna vo hi npm run dev
+
+4. backend chalane k liye bhi npm run dev hi likhna h kyuki pan ne dependency me jaake script change kri thi 
+
+5. 2 user banaye h testing k liye
+        rohitsharma@gmail.com
+        rohitsharma@password
+
+        johndoe@gmail.com
+        johndoe@password
+
+
+
+*/
